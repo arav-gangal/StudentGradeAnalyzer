@@ -84,8 +84,6 @@ Then run it:
 
 ## Example
 
-    ===== STUDENT GRADE ANALYZER =====
-
     Enter number of subjects: 3
     Enter name of Subjects:
     1. Calculus
@@ -101,6 +99,9 @@ Then run it:
     Calculus : 4
     Programming : 4
     Physics : 3
+
+    ===== STUDENT GRADE ANALYZER =====
+
 
     Calculus:
     Marks: 92
