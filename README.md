@@ -102,7 +102,6 @@ Then run it:
 
     ===== STUDENT GRADE ANALYZER =====
 
-
     Calculus:
     Marks: 92
     Grade: O
